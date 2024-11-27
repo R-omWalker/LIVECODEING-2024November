@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "__verbose_abort": "c",
+        "cstdio": "c",
+        "locale": "cpp",
+        "stdio.h": "c",
+        "unistd.h": "c"
+    }
+}
